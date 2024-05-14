@@ -6,6 +6,8 @@ _SSL not yet supported but you can use Nginx Proxy Manager or Traefik to serve H
 
 From notepress (utxo-one) : https://github.com/utxo-one/notepress
 
+Demo: [https://notepress.fractalized.net](https://notepress.fractalized.net)
+
 # How to use
 
 Docker-compose.yml file:
